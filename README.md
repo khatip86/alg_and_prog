@@ -80,6 +80,7 @@
 | [1. Класс. RunnableСlock](./contest_07/01/main.cpp) | ![](./img/cpp.png) |
 
 |[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
 | [1. Никаких секретов](./contest_08/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Уроборос](./contest_08/02/main.cpp) | ![](./img/cpp.png) |
 | [3. 1D массив + функции](./contest_08/03/main.cpp) | ![](./img/cpp.png) |
